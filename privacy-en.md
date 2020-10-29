@@ -1,7 +1,7 @@
 # Privacy Policy
 ## Overview
 This Privacy Policy describes how your personal information is handled in %MY_UPCOMING_APP% for iOS and iPadOS.
-## We Collect No Personal Information Using Our Applications
+## We Collect No Personal Information
 We do not collect, use, save, or have access to any of your personal data in %MY_UPCOMING_APP% for iOS and iPadOS.
 Individual settings relating to the %MY_UPCOMING_APP% are not personal and are stored only on your device. We don’t process that information at all and have no access to it.
 ## Our Application Comply with the Children’s Online Privacy Protection Act
