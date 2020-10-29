@@ -9,4 +9,4 @@ Our application doesn’t collect personal information from anyone, including ch
 ## Changes to our Privacy Policy
 We keep our Privacy Policy under regular review and place any updates on this web page. This Privacy Policy was last updated on 29 October 2020.
 ## Contact Us
-If you have any questions about this Privacy Policy, feel free to get in touch with us at quillaur@outlook.
+If you have any questions about this Privacy Policy, feel free to get in touch with us at quillaur@outlook.сom.
