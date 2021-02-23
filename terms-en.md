@@ -1,6 +1,6 @@
 # Terms of Use
 ## Terms
-By accessing Irregulars for iOS or iPadOS (hereinafter referred to as software), you are agreeing to be bound by these Terms and Conditions of Use, all applicable laws, and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this app.
+By accessing Irregulars for iOS, iPadOS or macOS (hereinafter referred to as software), you are agreeing to be bound by these Terms and Conditions of Use, all applicable laws, and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this app.
 ## License
 Permission is granted for non-commercial use only. This is the grant of a license, not a transfer of title, and under this license, you may not attempt to decompile or reverse engineer software.
 ## Disclaimer
